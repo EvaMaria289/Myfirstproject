@@ -1,0 +1,21 @@
+.switch_btn{
+    width: 50px;
+  aspect-ratio: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 2rem;
+
+    background-color: #e9e1e1;
+color: rgb(173, 19, 19);
+border: none;
+border-radius: 50%;
+transition: 1s;
+} 
+
+.switch_btn:hover{
+transform: scale(1.2);
+
+
+}

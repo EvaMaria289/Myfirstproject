@@ -1,0 +1,15 @@
+.author{
+    border: 2px solid black;
+   padding: 20px;
+   border-radius: 20px;
+   color: beige;
+
+}
+.btn_container{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+    
+  
+
